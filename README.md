@@ -8,6 +8,10 @@ NClass_SVDD_exe.m is the example code of the multiclass SVDD, while NC_SVDD_TRAI
 Other functions have been included to allow the program to function properly.
 
 Cite As
-Alberto Carlevaro (2022). NClass SVDD (https://www.mathworks.com/matlabcentral/fileexchange/104660-nclass-svdd), MATLAB Central File Exchange. Retrieved February 7, 2022.
+-) Plain text
+A. Carlevaro and M. Mongelli, "A New SVDD Approach to Reliable and Explainable AI," in IEEE Intelligent Systems, vol. 37, no. 2, pp. 55-68, 1 March-April 2022, doi: 10.1109/MIS.2021.3123669.
+
+-) BibTex 
+@ARTICLE{9594676,  author={Carlevaro, Alberto and Mongelli, Maurizio},  journal={IEEE Intelligent Systems},   title={A New SVDD Approach to Reliable and Explainable AI},   year={2022},  volume={37},  number={2},  pages={55-68},  doi={10.1109/MIS.2021.3123669}}
 
 ORCID: https://orcid.org/0000-0002-7206-5511
