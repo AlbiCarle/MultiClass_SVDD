@@ -6,6 +6,11 @@ title: MultiClassSVDD
 message: >-
   If you want to use my software, please cite it as
   below.
+  
+  A. Carlevaro and M. Mongelli, "A New SVDD Approach to Reliable and Explainable AI," in IEEE Intelligent Systems, vol. 37, no. 2, pp. 55-68, 1 March-April 2022, doi: 10.1109/MIS.2021.3123669.
+
+  @ARTICLE{9594676, author={Carlevaro, Alberto and Mongelli, Maurizio}, journal={IEEE Intelligent Systems}, title={A New SVDD Approach to Reliable and Explainable AI}, year={2022}, volume={37}, number={2}, pages={55-68}, doi={10.1109/MIS.2021.3123669}}
+
 type: software
 authors:
   - given-names: Alberto Carlevaro
